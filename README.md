@@ -1,0 +1,1 @@
+The notebook contains lane detection model based on Semantic Segmentation based Fully Connected Network applied on road images to output the detected lane for Advanced Driver Assistance System.The dataset used for training this model can be downloaded from this link : https://www.dropbox.com/s/rrh8lrdclzlnxzv/full_CNN_train.p?dl=0
